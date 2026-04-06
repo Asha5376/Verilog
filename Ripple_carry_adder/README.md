@@ -8,9 +8,9 @@ Simulated using **EDA Playground + EPWave**.
 ---
 
 ##  Files
-- ripple_carry_adder_4bit.v → Design
-- tb_ripple_carry_adder.v → Testbench
-- waveform.png → Simulation waveform screenshot
+- Ripple_carry_adder_.v → Design
+- Ripple_carry_adder_tb.v → Testbench
+- waveform_ripple_carry_adder.png → Simulation waveform screenshot
 
 ---
 
