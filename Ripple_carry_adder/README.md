@@ -1,6 +1,6 @@
 # 4-bit Ripple Carry Adder (Verilog)
 
-## 📌 Overview
+##  Overview
 This project implements a 4-bit Ripple Carry Adder using Verilog HDL.
 
 Simulated using **EDA Playground + EPWave**.
