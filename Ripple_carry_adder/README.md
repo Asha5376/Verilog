@@ -37,7 +37,7 @@ Simulated using **EDA Playground + EPWave**.
 
 ---
 
-## 🔥 Learning Outcome
+##  Learning Outcome
 - Verilog RTL design
 - Testbench basics
 - Waveform debugging using EPWave
